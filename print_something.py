@@ -1,3 +1,3 @@
-print("Ecrire un mot")
+print("Ecrire quelque chose")
 var1 = input()
-print(var1)
+print("Voici ce que vous avez écrit:", var1)
